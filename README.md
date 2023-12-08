@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hiren Makadia
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning on how scale ml models
-- 💞️ I’m looking to collaborate on anything that touched ml
+- 💞️ I’m looking to collaborate on anything that touches ml
 - 📫 How to reach me hiren.makadia [at] gmail.com
 
 <!---
